@@ -11,7 +11,7 @@ internal class Program
         Console.WriteLine("Tell me who is in class?");
         string result = Console.ReadLine();
 
-
+        ///test
 
 
         //int kontrolü ile sıfıtaki öğrencinin numarasını isteyin
