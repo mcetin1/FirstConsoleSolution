@@ -2,6 +2,7 @@
 
 class Program
 {
+    //ODEVİ CHAT GPT YE SORDUM
     static void Main(string[] args)
     {
         string[] students = { "Mahmut", "Mehmet", "Cem" };
