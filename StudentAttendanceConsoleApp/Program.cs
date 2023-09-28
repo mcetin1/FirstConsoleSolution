@@ -47,7 +47,7 @@ internal class Program
                 if (yoklamayaKatilanlar.Contains(ogrenciNumarasi))
                 {
                     Console.WriteLine("Bu öğrenci zaten var " + ogrenci);
-                    //Eğer öğrenci numarası listede zaten varsa bu öğrenci zaten var yazdırıyoruz
+                    //Eğer öğrenci numarası listede zaten varsa bu öğrenci zaten var yazdırıyoruz 
                 }
                 else
                 {
